@@ -8,7 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "build-github": "ng build --prod --base-href http://gunatejayadavalli.github.io/stopnshop/"
+    "build-github": "ng build --base-href http://gunatejayadavalli.github.io/stopnshop/"
   },
   "private": true,
   "dependencies": {
