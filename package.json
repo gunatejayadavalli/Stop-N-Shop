@@ -8,7 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "deploy": "ng build --prod --base-href https://gunatejayadavalli.github.io/stopnshop/ && angular-cli-ghpages --branch gh-pages"
+    "build-github": "ng build --prod --base-href https://gunatejayadavalli.github.io/stopnshop/"
   },
   "private": true,
   "dependencies": {
